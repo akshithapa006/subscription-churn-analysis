@@ -1,4 +1,4 @@
-Subscription & Churn Analysis
+# Subscription & Churn Analysis
 
 Tools Used :
 * PostgreSQL (pgAdmin)
